@@ -1,0 +1,23 @@
+.container{
+  text-align: center;
+}
+
+.messagesDiv {
+  margin: 25px auto;
+  height: 300px;
+  padding: 10px;
+  border: 1px solid black;
+  width: 400px;
+  text-align: left;
+  overflow: scroll;
+}
+
+.chatInput {
+  display: block;
+  margin: 10px auto;
+}
+
+.chatContainer {
+  text-align: center;
+  width: 100%
+}
